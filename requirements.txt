@@ -1,0 +1,12 @@
+base64
+dash
+io
+matplotlib
+mplsoccer
+numpy
+os
+pandas
+plotly
+seaborn
+sklearn
+streamlit
